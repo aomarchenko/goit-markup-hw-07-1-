@@ -2,7 +2,6 @@
     fill: var(--accent-color);
   }
   
-  
   .customers {
     display: flex;
     justify-content: space-between;
@@ -11,9 +10,6 @@
     flex-basis: calc((100%-180px) / 6);
     margin-right: 30px;
   }
-  
-  
-  
   
   .regular-clients-item:not(:last-child) {
     flex-basis: calc((100%-180px) / 6);

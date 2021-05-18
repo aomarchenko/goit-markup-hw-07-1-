@@ -815,7 +815,7 @@ body {
   color: var(--accent-color);
 }
 
-.nav-link-current {
+.nav-link__current {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -825,7 +825,7 @@ body {
   position: relative;
 }
 
-.nav-link-current::after {
+.nav-link__current::after {
   position: absolute;
   bottom: -36px;
   content: "";
